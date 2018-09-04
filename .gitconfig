@@ -1,0 +1,8 @@
+[commit]
+    template = ./.gitmessage
+[merge]
+    ff = no
+
+ # to set manually use:
+ # git config --local commit.template=.gitmessage
+ # git config --local merge.ff=no

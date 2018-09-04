@@ -1,0 +1,11 @@
+# .git
+.git*
+
+# Ignore all your language-specific build folders
+build/*
+target/*
+node_modules/*
+.bundler/*
+etc
+
+.idea/*
